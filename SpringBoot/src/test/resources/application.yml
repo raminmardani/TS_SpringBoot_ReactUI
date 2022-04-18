@@ -1,0 +1,4 @@
+irisml:
+  savedModel:
+    path: ../ML/stored_model/1530093489
+    tags: serve
